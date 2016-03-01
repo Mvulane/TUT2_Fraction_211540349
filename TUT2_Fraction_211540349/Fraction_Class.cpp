@@ -47,6 +47,8 @@ void Fraction::divide(Fraction x, Fraction y) {
 int Fraction::getNumDen() {
 	return numarator, denominator;
 };
+
+
 /*
 void Fraction::getNumDen()
 {
